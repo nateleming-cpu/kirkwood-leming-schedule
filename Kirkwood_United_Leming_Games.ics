@@ -1,0 +1,80 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Kirkwood United Leming//Soccer Schedule//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Kirkwood United - Leming Games
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VEVENT
+UID:20261107-1030-leming@kirkwood-united
+DTSTAMP:20261031T020000Z
+DTSTART:20261107T163000Z
+DTEND:20261107T172000Z
+SUMMARY:Kirkwood United - Leming vs. Team Mascoutah 2018/19
+LOCATION:STL Athletic Center - Field #1 (Full Field #1)
+DESCRIPTION:U8 Boys 7v7. Verify details against the official eSoftPlanner schedule.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261114-1120-leming@kirkwood-united
+DTSTAMP:20261031T020000Z
+DTSTART:20261114T172000Z
+DTEND:20261114T181000Z
+SUMMARY:Kirkwood United - Leming vs. Kirkwood United Red Sova
+LOCATION:STL Athletic Center - Field #1 (Full Field #1)
+DESCRIPTION:U8 Boys 7v7. Verify details against the official eSoftPlanner schedule.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261121-1030-leming@kirkwood-united
+DTSTAMP:20261031T020000Z
+DTSTART:20261121T163000Z
+DTEND:20261121T172000Z
+SUMMARY:Kirkwood United - Leming vs. Flyers SC - Stuckel
+LOCATION:STL Athletic Center - Field #1 (Full Field #1)
+DESCRIPTION:U8 Boys 7v7. Verify details against the official eSoftPlanner schedule.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261205-0800-leming@kirkwood-united
+DTSTAMP:20261031T020000Z
+DTSTART:20261205T140000Z
+DTEND:20261205T145000Z
+SUMMARY:Kirkwood United - Leming vs. SLSG Arsenal
+LOCATION:STL Athletic Center - Field #1 (Full Field #1)
+DESCRIPTION:U8 Boys 7v7. Verify details against the official eSoftPlanner schedule.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261212-0800-leming@kirkwood-united
+DTSTAMP:20261031T020000Z
+DTSTART:20261212T140000Z
+DTEND:20261212T145000Z
+SUMMARY:Kirkwood United - Leming vs. St. Louis Juniors SC
+LOCATION:STL Athletic Center - Field #1 (Full Field #1)
+DESCRIPTION:U8 Boys 7v7. Verify details against the official eSoftPlanner schedule.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261219-0850-leming@kirkwood-united
+DTSTAMP:20261031T020000Z
+DTSTART:20261219T145000Z
+DTEND:20261219T154000Z
+SUMMARY:Kirkwood United - Leming vs. Flyers SC - Henry
+LOCATION:STL Athletic Center - Field #1 (Full Field #1)
+DESCRIPTION:U8 Boys 7v7. Verify details against the official eSoftPlanner schedule.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261226-0800-leming@kirkwood-united
+DTSTAMP:20261031T020000Z
+DTSTART:20261226T140000Z
+DTEND:20261226T145000Z
+SUMMARY:Kirkwood United - Leming vs. St. Louis Lions Cubs
+LOCATION:STL Athletic Center - Field #1 (Full Field #1)
+DESCRIPTION:U8 Boys 7v7. Verify details against the official eSoftPlanner schedule.
+END:VEVENT
+BEGIN:VEVENT
+UID:20270101-1020-leming@kirkwood-united
+DTSTAMP:20261031T020000Z
+DTSTART:20270101T162000Z
+DTEND:20270101T171000Z
+SUMMARY:Kirkwood United - Leming vs. STL Assumption
+LOCATION:STL Athletic Center - Field #1 (Full Field #1)
+DESCRIPTION:U8 Boys 7v7. Verify details against the official eSoftPlanner schedule.
+END:VEVENT
+END:VCALENDAR
