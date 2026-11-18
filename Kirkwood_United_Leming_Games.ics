@@ -71,8 +71,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:20270101-1020-leming@kirkwood-united
 DTSTAMP:20261031T020000Z
-DTSTART:20270101T162000Z
-DTEND:20270101T171000Z
+DTSTART:20261128T145000Z
+DTEND:20261128T154000Z
 SUMMARY:Kirkwood United - Leming vs. STL Assumption
 LOCATION:STL Athletic Center - Field #1 (Full Field #1)
 DESCRIPTION:U8 Boys 7v7. Verify details against the official eSoftPlanner schedule.
